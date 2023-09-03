@@ -1,2 +1,3 @@
 # infra
-Everything that can managed with terraform (e.g. Cloudflare DNS)
+
+Everything that can be managed with terraform (e.g. Cloudflare DNS)
